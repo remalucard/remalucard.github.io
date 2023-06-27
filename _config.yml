@@ -27,7 +27,7 @@ gh_edit_link: false
 footer_content: "idk this isn't copyrighted, theme is just the docs shoutout to them"
 
 #dark theme
-color_theme: dark
+color_scheme: dark
 
 #mermaid diagram
 mermaid:
