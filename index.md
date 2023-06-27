@@ -14,8 +14,8 @@ i'm mostly using this site to learn about jekyll and markdown, but it'll help wi
 if you have any ideas, feel free to message me on discord  
 fen_. or auroramarialice  
 also feel free to message with other things.  
-[youtube](https://youtube.com/@fen_)
-[github](https://github.com/remalucard)
-[twitter](https://twitter.com/rem_alu)
-[carrd (to be replaced)](https://fennn.carrd.co/)
-[pronouns.page](https://en.pronouns.page/@fenn_)
+[youtube](https://youtube.com/@fen_)  
+[github](https://github.com/remalucard)  
+[twitter](https://twitter.com/rem_alu)  
+[carrd (to be replaced)](https://fennn.carrd.co/)  
+[pronouns.page](https://en.pronouns.page/@fenn_)  
