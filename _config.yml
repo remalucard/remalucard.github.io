@@ -10,7 +10,3 @@ relative_permalinks: true
 title:            magical girl rem's site
 description:      site of remilia alucard, world's first real magical girl.
 url:              https://remalucard.github.io
-baseurl:          /
-
-paginate:         5
-
