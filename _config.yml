@@ -1,0 +1,16 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            magical girl rem's site
+description:      site of remilia alucard, world's first real magical girl.
+url:              https://remalucard.github.io
+baseurl:          /
+
+paginate:         5
+
