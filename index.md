@@ -1,1 +1,1 @@
-<header>welcome to the homepage of the world's first magical girl.</header>
+<h1>welcome to the homepage of the world's first magical girl.</h1>
