@@ -1,6 +1,6 @@
 ---
 layout: default
-name: games i play
+title: games i play
 nav_order: 2
 ---
 
