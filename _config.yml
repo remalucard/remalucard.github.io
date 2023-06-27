@@ -7,4 +7,4 @@ description:      site of remilia alucard, world's first real magical girl.
 plugins: 
 - jekyll-remote-theme
 
-theme: poole/hyde
+remote_theme: poole/hyde
