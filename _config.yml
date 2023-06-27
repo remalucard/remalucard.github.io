@@ -28,3 +28,9 @@ footer_content: "idk this isn't copyrighted, theme is just the docs shoutout to 
 
 #dark theme
 color_theme: dark
+
+#mermaid diagram
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
