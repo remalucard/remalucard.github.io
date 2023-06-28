@@ -5,8 +5,8 @@ nav_order: 1
 ---
 
 
-<h1>welcome to the homepage of the world's first magical girl.</h1>
-hi, i'm remilia alucard, the whole "magical girl" thing is mostly a joke but it's funny
+<h1>welcome to my site i guess.</h1>
+hi, i'm remilia alucard, 14 y/o transfem gamer programmer nerd.
 &nbsp;  
 &nbsp;  
 i'm mostly using this site to learn about jekyll and markdown, but it'll help with yaml and other things, like git.
