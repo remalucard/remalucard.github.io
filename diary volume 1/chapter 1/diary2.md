@@ -11,5 +11,7 @@ not to mention it makes my life a whole lot easier so i can organise this.
 &nbsp;  
 also [krunker.io](https://krunker.io) is a shocking amount of fun when bored
 &nbsp;  
+it appears that making custom css is hard as shit. css caches itself so i need to hard reload every time i change something. at least it's not that hard. i should document some of this so it's easier to see.
+&nbsp;  
 with love  
 &nbsp; &nbsp; &nbsp; -rem
