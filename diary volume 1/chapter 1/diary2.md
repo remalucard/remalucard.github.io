@@ -15,7 +15,7 @@ it appears that making custom css is hard as shit. css caches itself so i need t
 just trying out raw git with vim, this will be hard, won't it?
 &nbsp;   
 it wasn't hard, it was just boring and it created extra files i didn't need. guess i'll stick to codespaces and firefox, maybe i'll use codespaces in vscode though. either way, it'll be a piece of cake compared to manually checking if my current on-machine copy is up to date, then changing, then pushing to main.  
-it appears that it's easy to use vscode by itself so no browser needed. anyways, my life is easier, and that's pretty much all i care about.
+it appears that it's easy to use vscode by itself so no browser needed. vscode sometimes gives me trouble but i can just worth through it. anyways, my life is easier, and that's pretty much all i care about.
 &nbsp;    
 with love  
 &nbsp; &nbsp; &nbsp; -rem 
