@@ -11,9 +11,11 @@ not to mention it makes my life a whole lot easier so i can organise this.
 &nbsp;  
 also [krunker.io](https://krunker.io) is a shocking amount of fun when bored
 &nbsp;  
-it appears that making custom css is hard as shit. css caches itself so i need to hard reload every time i change something. at least it's not that hard. i should document some of this so it's easier to see.
+it appears that making custom css is hard as shit. css caches itself so i need to hard reload every time i change something. at least it's not that hard. i should document some of this so it's easier to see.  
 &nbsp;
 just trying out raw git with vim, this will be hard, won't it?
+&nbsp;   
+it wasn't hard, it was just boring and it created extra files i didn't need. guess i'll stick to codespaces and firefox, maybe i'll use codespaces in vscode though. either way, it'll be a piece of cake compared to manually checking if my current on-machine copy is up to date, then changing, then pushing to main.  
 &nbsp;    
 with love  
 &nbsp; &nbsp; &nbsp; -rem 
