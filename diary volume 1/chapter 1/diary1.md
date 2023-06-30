@@ -1,7 +1,8 @@
 ---
 layout: default
 title: first diary
-parent: diary
+parent: volume 1 chapter 1
+grand_parent: diary volume 1
 nav_order: 1
 ---
 <h1>first entry</h1>
@@ -10,4 +11,4 @@ i also put a few death note episodes on my mp3 player (don't question how my mp3
 i'm also illegally downloading music so that's fun.
 somehow my voice gave me euphoria lol
 with love  
-&nbsp; &nbsp; &nbsp; rem
+&nbsp; &nbsp; &nbsp;-rem

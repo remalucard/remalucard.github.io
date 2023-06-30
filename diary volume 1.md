@@ -1,6 +1,6 @@
 ---
 layout: default
-title: diary
+title: diary volume 1
 nav_order: 3
 has_children: true
 ---
