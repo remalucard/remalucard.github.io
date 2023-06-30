@@ -1,4 +1,4 @@
-$body-background-color: #1e1e2e;
+$body-background-color: #ffffff;
 $body-heading-color: #1e1e2e;
 $body-text-color: #cdd6f4;
 $link-color: #f38ba8	;
@@ -12,7 +12,6 @@ $feedback-color: darken($sidebar-color, 3%);
 $table-background-color: #181825;
 $search-background-color: #181825;
 $search-result-preview-color: #1e1e2e;
-$border-color: #11111b;
-$site-title: #cdd6f4;
+$border-color: #1e1e2e;
 
 @import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
