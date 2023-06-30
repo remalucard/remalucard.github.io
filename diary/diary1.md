@@ -9,5 +9,5 @@ i had to get an xray today, the person who was working the front desk gendered m
 i also put a few death note episodes on my mp3 player (don't question how my mp3 player plays video it's not really an mp3 player)
 i'm also illegally downloading music so that's fun.
 
-with love
+with love  
 &nbsp; rem
