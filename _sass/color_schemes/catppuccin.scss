@@ -1,3 +1,5 @@
 @import "./color_schemes/dark";
-$body-background-color: #1e1e2e;
-$link-color: #f38ba8;
+$catppuccin-red: #f38ba8;
+$catppuccin-base1: #1e1e2e
+$body-background-color: $catppuccin-base1;
+$link-color: $catppuccin-red;
