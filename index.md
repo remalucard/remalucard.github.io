@@ -17,5 +17,4 @@ also feel free to message with other things.
 [youtube](https://youtube.com/@fen_)  
 [github](https://github.com/remalucard)  
 [twitter](https://twitter.com/rem_alu)  
-[carrd (to be replaced)](https://fennn.carrd.co/)  
 [pronouns.page](https://en.pronouns.page/@fenn_)  
