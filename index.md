@@ -20,5 +20,5 @@ fen_. or auroramarialice
 also feel free to message with other things.  
 [youtube](https://youtube.com/@fen_)  
 [github](https://github.com/remalucard)  
-[twitter](https://twitter.com/rem_alu)  
+[twitter](https://twitter.com/remalucard)  
 [pronouns.page](https://en.pronouns.page/@fenn_)  
