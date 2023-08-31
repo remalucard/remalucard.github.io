@@ -6,7 +6,7 @@ nav_order: 1
 
 
 <h1>welcome to my site i guess.</h1>
-hi, i'm remilia alucard, 14 y/o transfem gamer programmer nerd.  
+hi, i'm remilia alucard, 15 y/o transfem gamer programmer nerd.  
 &nbsp;  
 i play blazblue centralfiction (hazama main), krunker.io, and a few other games, though my favorite game atm is bloodborne.  
 i also watch anime, currently watching madoka magica and death note, but i'm also going to finish dr stone season 3 and code geass r2.  
@@ -22,3 +22,4 @@ also feel free to message with other things.
 [github](https://github.com/remalucard)  
 [twitter](https://twitter.com/remalucard)  
 [pronouns.page](https://en.pronouns.page/@fenn_)  
+<a rel="me" href="https://mastodon.social/@alurem">Mastodon</a>
