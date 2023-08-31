@@ -22,4 +22,4 @@ also feel free to message with other things.
 [github](https://github.com/remalucard)  
 [twitter](https://twitter.com/remalucard)  
 [pronouns.page](https://en.pronouns.page/@fenn_)  
-<a rel="me" href="https://mastodon.social/@alurem">Mastodon</a>
+<a rel="me" href="https://mastodon.social/@alurem">mastodon</a>
