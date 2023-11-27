@@ -8,8 +8,8 @@ nav_order: 1
 <h1>welcome to my site i guess.</h1>
 hi, i'm remilia alucard, 15 y/o transfem gamer programmer nerd.  
 &nbsp;  
-i play blazblue centralfiction (hazama main), krunker.io, and a few other games, though my favorite game atm is bloodborne.  
-i also watch anime, currently watching madoka magica and death note, but i'm also going to finish dr stone season 3 and code geass r2.  
+i play blazblue centralfiction (hazama main), guilty gear (order sol, elphelt, asuka r♯ in +r, xrd, and strive respectively), and a few other games, though my favorite game atm is guilty gear xx accent core +r.  
+i also watch anime, currently watching hellsing ultimate, beastars, and a few others i'm forgetting about, but i'm also going to finish code geass r2 eventually.  
 &nbsp;  
 if you want to look at my diary entries and you're on mobile and/or lazy, [click here.](https://remalucard.github.io/diary%20volume%201/)  
 &nbsp;  
