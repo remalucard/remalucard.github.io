@@ -18,8 +18,8 @@ i'm mostly using this site to learn about jekyll and markdown, but it'll help wi
 if you have any ideas, feel free to message me on discord  
 fen_. or auroramarialice  
 also feel free to message with other things.  
-[youtube](https://youtube.com/@fen_)  
+[youtube](https://youtube.com/@remalucard)  
 [github](https://github.com/remalucard)  
 [twitter](https://twitter.com/remalucard)  
 [pronouns.page](https://en.pronouns.page/@fenn_)  
-<a rel="me" href="https://mastodon.social/@alurem">mastodon</a>
+<a rel="me" href="https://sakurajima.moe/@remilia">mastodon</a>
