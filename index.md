@@ -4,7 +4,8 @@ title: home
 nav_order: 1
 ---
 
-<h1>[THIS SITE IS OUTDATED, NEW SITE HERE](https://remalucard.neocities.org)</h1>
+<h1>THIS SITE IS OUTDATED, NEW SITE HERE</h1>
+[neocities](https://remalucard.neocities.org)
 &nbsp;
 <h1>welcome to my site i guess.</h1>
 hi, i'm remilia alucard, 15 y/o transfem gamer programmer nerd.  
